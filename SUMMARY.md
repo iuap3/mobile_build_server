@@ -22,5 +22,5 @@
     * [用户管理](articles/build/5-/yonghu.md)
     * [权限管理](articles/build/5-/quanxian.md)
     * [应用构造服务](articles/build/6-/yygz.md)
-    * [附录](articles/build/7-/fulu.md)
+
 
