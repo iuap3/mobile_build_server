@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * 产品介绍
     * [产品概述](articles/build/1-/gaishu.md)
     * [产品优势](articles/build/1-/adv.md)
