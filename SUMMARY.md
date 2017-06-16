@@ -6,6 +6,7 @@
     * [产品优势](articles/build/1-/adv.md)
     * [应用场景](articles/build/1-/changjing.md)
     * [基础架构](articles/build/1-/stur.md)
+    * [产品历程](articles/build/1-/rels.md)
 * 用户手册
     * [移动设备类型库管理](articles/build/2-/yidong.md)
     * [UUID管理](articles/build/2-/uuid.md)
