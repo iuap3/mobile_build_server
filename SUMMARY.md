@@ -7,7 +7,6 @@
     * [应用场景](articles/build/1-/changjing.md)
     * [基础架构](articles/build/1-/stur.md)
     * [产品历程](articles/build/1-/rels.md)
-    * [名词解释](articles/build/1-/mingci.md)
 * [移动设备类型库管理](articles/build/2-/yidong.md)
     * [UUID管理](articles/build/2-/uuid.md)
     * [系统版本管理](articles/build/2-/xitong.md)
